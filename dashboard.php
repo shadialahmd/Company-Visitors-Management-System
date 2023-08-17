@@ -71,7 +71,7 @@ $count_today_visitors=mysqli_num_rows($query);
 
                         <div class="row m-t-25">
                             <div class="col-sm-6 col-lg-3">
-                                <div class="overview-item overview-item--c1">
+                                <div class="overview-item overview-item--c1" style="height: 145px;">
                                     <div class="overview__inner">
                                         <div class="overview-box clearfix">
                                             <div class="icon">
