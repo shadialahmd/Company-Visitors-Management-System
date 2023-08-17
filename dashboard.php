@@ -143,7 +143,7 @@ $count_total_visitors=mysqli_num_rows($query3);
 
 
                             <div class="col-sm-6 col-lg-3">
-                                <div class="overview-item overview-item--c4">
+                                <div class="overview-item overview-item--c4" style="height: 145px;">
                                     <div class="overview__inner">
                                         <div class="overview-box clearfix">
                                             <div class="icon">
