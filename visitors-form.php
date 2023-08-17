@@ -90,7 +90,7 @@ $reasontomeet=$_POST['reasontomeet'];
                                     </div>
                                     <div class="card-body card-block">
                                         <form action="" method="post" enctype="multipart/form-data" class="form-horizontal">
-                                            <p style="font-size:16px; color:red" align="center"> <?php if($msg){
+                                            <p style="font-size:16px; color:green" align="center"> <?php if($msg){
     echo $msg;
   }  ?> </p>
                                             <div class="row form-group">
